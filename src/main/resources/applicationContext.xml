@@ -12,7 +12,4 @@
         <property name="greetingService" ref="greetingService" />
     </bean>
 
-<!--    <bean id="application" class="com.spring.demo.Application">-->
-<!--    </bean>-->
-
 </beans>
